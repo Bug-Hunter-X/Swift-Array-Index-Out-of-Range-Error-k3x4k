@@ -1,0 +1,1 @@
+This repository contains a simple Swift program demonstrating an array index out of range error. The `bug.swift` file contains the buggy code, which attempts to access an element beyond the bounds of an array. The `bugSolution.swift` file provides a corrected version of the code that safely handles array access using optional binding and checks for array bounds.
